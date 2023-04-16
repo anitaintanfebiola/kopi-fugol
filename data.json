@@ -1,0 +1,71 @@
+{
+    "arabica": [{
+        "foto": "images/produk/arabica/arabica-blend.jpg",
+        "nama": "Arabica Blend",
+        "size": "200 Gram",
+        "harga": "86.000",
+        "link": "https://shopee.co.id/Kopi-Espresso-ARABICA-BLEND-(200-gr)-Specialty-Coffee-i.222785129.5875611704?sp_atk=051df880-a938-4ae4-b1ec-8ce1279d11f7&xptdk=051df880-a938-4ae4-b1ec-8ce1279d11f7"
+    }, {
+        "foto": "images/produk/arabica/kobe-blend.jpg",
+        "nama": "Kobe Blend",
+        "size": "200 Gram",
+        "harga": "98.000",
+        "link": "https://shopee.co.id/Kopi-Espresso-KOBE-Blend-(200-gr)-Specialty-Coffee-i.222785129.3475731304?sp_atk=64545c62-b1cf-477f-84ea-09ddd01b96da&xptdk=64545c62-b1cf-477f-84ea-09ddd01b96da"
+    }, {
+        "foto": "images/produk/arabica/buzzer-beater-blend.png",
+        "nama": "Buzzer Beater Blend",
+        "size": "200 Gram",
+        "harga": "118.000",
+        "link": "https://shopee.co.id/Kopi-Espresso-BUZZER-BEATER-Blend-(200-gr)-Specialty-Coffee-Full-Arabica-i.222785129.8330117279?sp_atk=342e6c48-b71c-4eb4-8afc-2362fe4aa3e3&xptdk=342e6c48-b71c-4eb4-8afc-2362fe4aa3e3"
+    }, {
+        "foto": "images/produk/arabica/es-kopisusu-blend.jpg",
+        "nama": "Es Kopi Susu",
+        "size": "200 Gram",
+        "harga": "63.000",
+        "link": "https://shopee.co.id/ES-KOPI-SUSU-(200-gr)-Espresso-Blend-Whole-Beans-i.222785129.3890263580?sp_atk=5edf2b37-c9dc-4958-a68f-b06d843bf57b&xptdk=5edf2b37-c9dc-4958-a68f-b06d843bf57b"
+    }, {
+        "foto": "images/produk/arabica/losangeles-blend.jpg",
+        "nama": "Los Angeles Blend",
+        "size": "200 Gram",
+        "harga": "103.000",
+        "link": "https://shopee.co.id/Kopi-Espresso-LOS-ANGELES-Blend-(200-gr)-Specialty-Coffee-i.222785129.4075637312?sp_atk=e0cbca35-3602-4007-a2ad-3eefef8cc5fd&xptdk=e0cbca35-3602-4007-a2ad-3eefef8cc5fd"
+    }, {
+        "foto": "images/produk/arabica/kerinci-mandarin.jpg",
+        "nama": "Kerinci Mandarin Orange",
+        "size": "200 Gram",
+        "harga": "96.050",
+        "link": "https://shopee.co.id/Kopi-Arabika-KERINCI-MANDARIN-ORANGE-(200-gr)-Single-Origin-Specialty-Arabica-Coffee-Beans-i.222785129.5255843985?sp_atk=00f0d714-b57e-4354-99f6-d1a58af1ed05&xptdk=00f0d714-b57e-4354-99f6-d1a58af1ed05"
+    }],
+    "robusta": [{
+        "foto": "images/produk/robusta/robusta-temanggung.jpg",
+        "nama": "Robusta Temanggung",
+        "size": "200 Gram",
+        "harga": "41.000",
+        "link": "https://shopee.co.id/Kopi-Espresso-Robusta-Temanggung-(200-gr)-i.222785129.3936423372?sp_atk=f46de936-fcf1-4cab-83dd-15679834d2ff&xptdk=f46de936-fcf1-4cab-83dd-15679834d2ff"
+    }],
+    "spesialrealise": [{
+        "foto": "images/produk/spesial-realise/johns-blend.png",
+        "nama": "John's Blend",
+        "size": "200 Gram",
+        "harga": "123.000",
+        "link": "https://shopee.co.id/Biji-Kopi-Arabika-JOHN'S-BLEND-200-gr-Specialty-Arabica-Coffee-Beans-i.222785129.22919501344?sp_atk=dca6ba32-8b4c-40e0-bc98-f4ddf99a7155&xptdk=dca6ba32-8b4c-40e0-bc98-f4ddf99a7155"
+    }, {
+        "foto": "images/produk/spesial-realise/sisola-tanawulu.png",
+        "nama": "Sisola Tanawulu",
+        "size": "200 Gram",
+        "harga": "168.000",
+        "link": "https://shopee.co.id/Kopi-Arabika-Sisola-Tana-Luwu-Anaerobic-Natural-Specialty-Coffee-Beans-i.222785129.21570686640?sp_atk=49e9da1a-552a-4e6d-a2ea-be720e914a87&xptdk=49e9da1a-552a-4e6d-a2ea-be720e914a87"
+    }, {
+        "foto": "images/produk/spesial-realise/westjava-rakutak.png",
+        "nama": "West Java Rakutak",
+        "size": "200 Gram",
+        "harga": "143.000",
+        "link": "https://shopee.co.id/Biji-Kopi-Arabika-WEST-JAVA-RAKUTAK-(200-gr)-Single-Origin-Coffee-i.222785129.18677601733?sp_atk=335a25bf-dd98-4d30-9149-cbafd1edc5d4&xptdk=335a25bf-dd98-4d30-9149-cbafd1edc5d4"
+    }, {
+        "foto": "images/produk/spesial-realise/gayo-avatara.png",
+        "nama": "Gayo Avatara",
+        "size": "200 Gram",
+        "harga": "148.000",
+        "link": "https://shopee.co.id/Biji-Kopi-Arabika-Gayo-Avatara-Carbonic-Maceration-Honey-(200-gr)-Single-Origin-Coffee-i.222785129.22837477555?sp_atk=bf1091a2-9347-496d-a7c6-9b0204ebc598&xptdk=bf1091a2-9347-496d-a7c6-9b0204ebc598"
+    }]
+}
